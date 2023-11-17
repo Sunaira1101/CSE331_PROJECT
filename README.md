@@ -1,3 +1,4 @@
 # CSE331_PROJECT
-Making Robot Car 
-Both hardware and software
+Hand Gesture Controlled Robot Car Using Arduino
+
+Both hardware and software(in Proteus)
